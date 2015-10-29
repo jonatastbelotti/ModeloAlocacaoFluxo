@@ -6,8 +6,8 @@ Orientadora: Profª. Drª. Sheila Morais de Almeida
 </h3>
 
 <h4>Descrição</h4>
-<p>Os diretórios estão distribuidos da seguinte maneira:</p>
-Entradas - 
+<p>Este repositório disponibiliza os arquivos utilizados no desenvolvimento do trabalho, o arquivo documento.pdf contém toda a descrição do método criado.</p>
+
 
 <h4>Instruções de uso</h4>
 <p>Os diretórios estão distribuidos da seguinte maneira:</p>
