@@ -14,7 +14,7 @@ Entradas -
 <p><b>Entradas - </b> estão os 15 arquivos de entrada usados nos testes.</p>
 <p><b>FordFulkeron - </b> esta a implementação do método de Ford-Fulkerson com a adaptação para várias origens e vários destinos recebendo o padrão de entrada do algoritmo.</p>
 <p><b>GeradorEntradas - </b> está o gerador de entradas aleatórias.</p>
-<p><b>rotasDisjuntas - </b> está a implementação do método proposto com o uso de rotsa totalmente disjuntas.</p>
-<p><b>v2 - </b> está a implementação do método proposto com o uso do relaxamento de rotas.</p>
+<p><b>MaxFlow TD - </b> está a implementação do método proposto com o uso de rotsa totalmente disjuntas.</p>
+<p><b>MaxFlow PD - </b> está a implementação do método proposto com o uso do relaxamento de rotas.</p>
 
 
